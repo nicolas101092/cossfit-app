@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossfitApp.Client", "src\CrossfitApp.Client\CrossfitApp.Client.csproj", "{75C02EC3-4817-4EBE-92E8-C2492978A30B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossfitApp", "src\CrossfitApp\CrossfitApp.csproj", "{8D47B064-4CC0-4A7D-B19A-24F56DE562A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossfitApp.Shared", "src\CrossfitApp.Shared\CrossfitApp.Shared.csproj", "{0ABFDEDB-F01F-4C59-9F2F-6C467E6A1791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C02EC3-4817-4EBE-92E8-C2492978A30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C02EC3-4817-4EBE-92E8-C2492978A30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C02EC3-4817-4EBE-92E8-C2492978A30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C02EC3-4817-4EBE-92E8-C2492978A30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D47B064-4CC0-4A7D-B19A-24F56DE562A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D47B064-4CC0-4A7D-B19A-24F56DE562A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D47B064-4CC0-4A7D-B19A-24F56DE562A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D47B064-4CC0-4A7D-B19A-24F56DE562A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABFDEDB-F01F-4C59-9F2F-6C467E6A1791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABFDEDB-F01F-4C59-9F2F-6C467E6A1791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABFDEDB-F01F-4C59-9F2F-6C467E6A1791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABFDEDB-F01F-4C59-9F2F-6C467E6A1791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

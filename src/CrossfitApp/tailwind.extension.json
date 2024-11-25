@@ -1,0 +1,10 @@
+{
+  "ConfigurationFile": "tailwind.config.js",
+  "BuildFiles": [
+    {
+      "Input": "wwwroot\\css\\input.css",
+      "Output": "wwwroot\\css\\output.css"
+    }
+  ],
+  "UseCli": false
+}
